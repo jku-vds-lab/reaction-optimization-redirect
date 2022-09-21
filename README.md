@@ -1,2 +1,1 @@
-# coral-redirect
-temporary redirect from coral.app.jku-vds-lab.at to coral.caleydoapp.org
+temporary redirect from https://reaction-optimization.jku-vds-lab.at/ to https://reaction-optimization.caleydoapp.org/
